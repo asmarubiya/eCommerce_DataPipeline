@@ -1,5 +1,5 @@
 # Data Engineering for E-commerce: An End-to-End Project
-
+#This project is taken from ZiadAssal
 ## Project Description
 
 Welcome to our comprehensive end-to-end data engineering project tailored for e-commerce. In this project, We have meticulously crafted a streamlined data pipeline to handle diverse datasets from various sources. The journey involves extracting data from CSV files, utilizing Alteryx for minimal transformations, transferring it to SQL Server for staging, and further refining it with Power Query transformations. Finally, we delve into SQL Server for data modeling and leverage Power BI for insightful analysis.
